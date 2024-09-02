@@ -1,0 +1,1 @@
+Project folder for the debugging part of the chatGPT project.
